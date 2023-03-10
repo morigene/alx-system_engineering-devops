@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir ls -ampXv
+mkdir ls -amp
