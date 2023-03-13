@@ -1,2 +1,2 @@
 #!/bin/bash
- head -3 3-twofiles | tail +3
+ head -3 iacta | tail +3
