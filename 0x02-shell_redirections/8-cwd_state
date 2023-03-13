@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 3-twofiles | head -n 2
+ls -la > ls_cwd_content
