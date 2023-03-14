@@ -1,0 +1,1 @@
+THIS IS VARIABLE in linux
